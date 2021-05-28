@@ -1,4 +1,4 @@
-# Project-Portfolio
+# LWB Project-Portfolio
 A portfolio of current and past projects designed by the Libraries Without Borders US team. 
 More information about LWB US is available [here](librarieswithoutborders.us/our-organization/).
 
